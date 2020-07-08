@@ -30,3 +30,5 @@ This library is released under the GPL-3.0 License. I encourage anyone to use it
 * The Public Domain BLACK LIVES MATTER [logo in SVG format](https://upload.wikimedia.org/wikipedia/commons/5/5d/Black_Lives_Matter_logo.svg) came from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_Lives_Matter_logo.svg)
 * The [Inkscape](https://inkscape.org/) open-source vector graphics editor was used to edit the SVG
 * Eagle does not have a great way of importing vector graphics. I used Gordon Williams' excellent [svgtoeagle tool](https://gfwilliams.github.io/svgtoeagle/) to get from Inkscape to Eagle 
+
+![BLACK LIVES MATTER](images/sample.png) ![A ruler beside the various sizes available in the library](images/sizes_sample.png)
