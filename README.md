@@ -1,6 +1,6 @@
 # BLACK LIVES MATTER Eagle Library
 
-This is a library for Autodesk Eagle that provides BLACK LIVES MATTER silkscreens and copper footprints for PCBs.
+This is a library for Autodesk Eagle that provides BLACK LIVES MATTER silkscreens and copper footprints for printed circuit boards.
 
 A common attitude in DIY and Maker™ circles is that the world of technology is independent of politics and should remain free of political messages like BLACK LIVES MATTER. In fact, there is political ideology embedded in all technology—in the work that we do, the tools that we use, and the access that people have to our projects. (Yes, that includes your DIY cat feeder, garage door opener, or protocol analyzer.) Technology often serves to reinforce existing social structures, including class-based and racist power structures. Examples of this occasionally rise to the surface in [easy](https://www.theatlantic.com/technology/archive/2009/12/are-hewlett-packard-webcams-racist/341579/). [to](https://www.technologyreview.com/2020/06/03/1002589/technology-perpetuates-racism-by-design-simulmatics-charlton-mcilwain/). [identify](https://www.aclu.org/news/privacy-technology/how-is-face-recognition-surveillance-technology-racist/). [ways](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16).
 
