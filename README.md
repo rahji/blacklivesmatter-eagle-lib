@@ -19,7 +19,7 @@ Including a BLACK LIVES MATTER message on your PCBs can serve as a small gesture
 
 If you use the library or otherwise include BLACK LIVES MATTER on your PCB project, please add an Issue with the "project" tag and include the URL. I'd like to add it to the list here:
 
-* A [Portable RJ45-to-Eurorack Bridge](https://github.com/rahji/rj45eurorackbridge) that allows two modular sythesists to collaborate across a safe distance during the COVID-19 pandemic
+* A [Portable RJ45-to-Eurorack Bridge](https://github.com/rahji/rj45eurorackbridge) that allows two modular sythesists to collaborate across a safe distance during the COVID-19 pandemic (made before this library, so it looks different)
 
 ### License
 
