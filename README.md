@@ -17,9 +17,19 @@ Including a BLACK LIVES MATTER message on your PCBs can serve as a small gesture
 
 ### Projects
 
-If you use the library or otherwise include BLACK LIVES MATTER on your PCB project, please add an Issue with the "project" tag and include the URL. I'd like to add it to the list here:
+If you use the library *or otherwise include BLACK LIVES MATTER on your PCB project*, please add an Issue with the "project" tag and include the URL. I'd like to add it to the list here:
 
 * A [Portable RJ45-to-Eurorack Bridge](https://github.com/rahji/rj45eurorackbridge) that allows two modular sythesists to collaborate across a safe distance during the COVID-19 pandemic (made before this library, so it looks different)
+* One of Adafruit's "Top Secret" projects is a [microcontroller board with a Black Lives Matter theme](https://www.youtube.com/watch?v=Tg-pRtRBCoA)
+* A bunch of Hex Fairydance's pedals and Eurorack modules (see photos below)
+
+![Photo of Portable RJ45-to-Eurorack Bridge](/images/rj45eurorackbridge_smaller.jpg)
+![Hex Fairydance 1](/images/hex_fairydance1_smaller.jpg)
+![Hex Fairydance 2](/images/hex_fairydance2_smaller.jpg)
+![Hex Fairydance 3](/images/hex_fairydance3_smaller.jpg)
+![Hex Fairydance 4](/images/hex_fairydance4_smaller.jpg)
+![Hex Fairydance 5](/images/hex_fairydance5_smaller.jpg)
+![Hex Fairydance 6](/images/hex_fairydance6_smaller.jpg)
 
 ### License
 
@@ -30,5 +40,7 @@ This library is released under the GPL-3.0 License. I encourage anyone to use it
 * The Public Domain BLACK LIVES MATTER [logo in SVG format](https://upload.wikimedia.org/wikipedia/commons/5/5d/Black_Lives_Matter_logo.svg) came from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_Lives_Matter_logo.svg)
 * The [Inkscape](https://inkscape.org/) open-source vector graphics editor was used to edit the SVG
 * Eagle does not have a great way of importing vector graphics. I used Gordon Williams' excellent [svgtoeagle tool](https://gfwilliams.github.io/svgtoeagle/) to get from Inkscape to Eagle 
+
+### Samples
 
 ![BLACK LIVES MATTER](images/sample.png) ![A ruler beside the various sizes available in the library](images/sizes_sample.png)
